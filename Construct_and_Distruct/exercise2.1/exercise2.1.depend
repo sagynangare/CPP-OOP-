@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1488042108 source:c:\users\koushal\desktop\sagar python\cpp\practice\construct_and_distruct\exercise2.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<iomanip>
+
