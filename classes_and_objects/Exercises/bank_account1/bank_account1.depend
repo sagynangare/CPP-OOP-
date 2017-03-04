@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487781159 source:c:\users\koushal\desktop\sagar python\cpp\bank_account1\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+

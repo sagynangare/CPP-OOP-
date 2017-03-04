@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487793690 source:c:\users\koushal\desktop\sagar python\cpp\vector\main.cpp
+	<iostream>
+	<conio.h>
+
